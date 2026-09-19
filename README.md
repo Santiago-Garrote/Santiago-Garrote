@@ -37,6 +37,14 @@ is someone else's domain, not mine.
 - Backend, frontend, and shared types built to actually ship and be used, not
   just a portfolio piece
 
+### [.dotfiles](https://github.com/Santiago-Garrote/.dotfiles)
+
+- How I work, not just what I've built — my whole system (NixOS + home-manager)
+  declared and reproducible from one flake instead of manual, drifting config
+- Custom theming/palette system so the desktop's look is generated config, not
+  one-off tweaks — same instinct as pax: understand the system, make it
+  reproducible
+
 ## Tools I reach for
 
 ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
