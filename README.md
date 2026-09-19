@@ -11,9 +11,14 @@ I care more about the "why" behind a system than the stack it's built on: right 
 that's meant Rust + Nix for reproducible tooling, and whatever fits when the problem
 is someone else's domain, not mine.
 
+**Open to:** full-time Backend / Software Engineering roles — Remote or Buenos Aires, Argentina
+
 ## What I've built
 
 ### Pax
+
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Nix](https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 
 - Academic paper management is a mess: search, metadata, PDFs, references,
   reproducibility, all disconnected
@@ -26,6 +31,9 @@ is someone else's domain, not mine.
     TUI front-end to pax-core, in progress
 
 ### CETUCA
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Nix](https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
 
 - Civil engineers doing road-safety pre-analysis were losing hours manually
   extracting data from footage, then feeding it into microsimulation models
@@ -42,12 +50,17 @@ is someone else's domain, not mine.
 
 ### uroboros
 
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
 - Full-stack storefront for a stationery business
 - Backend, frontend, and shared types built to actually ship and be used, not
   just a portfolio piece
 - **[uroboros-frontend](https://github.com/UroborosDesigns/uroboros-frontend)**
 
 ### [.dotfiles](https://github.com/Santiago-Garrote/.dotfiles)
+
+![Nix](https://img.shields.io/badge/-Nix-5277C3?style=flat-square&logo=nixos&logoColor=white)
+![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
 - How I work, not just what I've built — my whole system (NixOS + home-manager)
   declared and reproducible from one flake instead of manual, drifting config
