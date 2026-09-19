@@ -67,13 +67,6 @@ is someone else's domain, not mine.
 
 </div>
 
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Santiago-Garrote&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Garrote&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
-
-</div>
-
 ## Elsewhere
 
 <div align="center">
