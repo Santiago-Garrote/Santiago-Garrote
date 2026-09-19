@@ -11,7 +11,8 @@ is someone else's domain, not mine.
 mess: search, metadata, PDFs, references, reproducibility, all disconnected. I split
 the problem cleanly instead of writing one more script — PAX handles papers, Nix
 handles artifacts (fetching, hashing, caching, reproducibility). A companion TUI,
-**lazypax**, is in progress as an interactive front-end to the same core.
+**[lazy-pax](https://github.com/Santiago-Garrote/lazy-pax)**, is in progress as an
+interactive front-end to the same core.
 
 **CETUCA** — Civil engineers doing road-safety pre-analysis were losing hours
 manually extracting data from footage, then feeding it into microsimulation models
@@ -19,13 +20,15 @@ that were nearly impossible to calibrate for local driver behavior — bad calib
 meant bad decisions downstream. I proposed and built a pipeline that analyzes
 real-world vehicle trajectories directly instead of simulated ones, removing the
 calibration error and automating most of the manual pre-processing. Split into three
-components — **TraTrac** (trajectory tracking), **FloCo** (flow counting), and
-**URBAn** (the GUI tying them together). Done with UCA (Argentina), presented at a
-Civil Engineering congress.
+components — **[TraTrac](https://github.com/CentroEstudiosTransporteUCA/TraTrac)**
+(trajectory tracking), **[FloCo](https://github.com/CentroEstudiosTransporteUCA/FloCo)**
+(flow counting), and **[URBAn](https://github.com/CentroEstudiosTransporteUCA/URBAn)**
+(the GUI tying them together). Done with UCA (Argentina), presented at a Civil
+Engineering congress.
 
-**uroboros** — A full-stack storefront for a stationery business — backend,
-frontend, and shared types built to actually ship and be used, not just a portfolio
-piece.
+**[uroboros](https://github.com/UroborosDesigns/uroboros-frontend)** — A full-stack
+storefront for a stationery business — backend, frontend, and shared types built to
+actually ship and be used, not just a portfolio piece.
 
 ## Tools I reach for
 
