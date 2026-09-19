@@ -51,9 +51,9 @@ is someone else's domain, not mine.
 
 ## Tools I reach for
 
-![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
-![Nix](https://img.shields.io/badge/-Nix-5277C3?logo=nixos&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+[![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/)
+[![Nix](https://img.shields.io/badge/-Nix-5277C3?logo=nixos&logoColor=white)](https://nixos.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 <!-- add/remove badges to match your real stack -->
 
 ## Elsewhere
