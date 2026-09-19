@@ -1,0 +1,39 @@
+# Hey, I'm Santiago
+
+I solve problems — the tool I reach for just happens to be code, most of the time.
+I care more about the "why" behind a system than the stack it's built on: right now
+that's meant Rust + Nix for reproducible tooling, and whatever fits when the problem
+is someone else's domain, not mine.
+
+## What I've built
+
+**[pax](https://github.com/Santiago-Garrote/pax)** — Academic paper management is a
+mess: search, metadata, PDFs, references, reproducibility, all disconnected. I split
+the problem cleanly instead of writing one more script — PAX handles papers, Nix
+handles artifacts (fetching, hashing, caching, reproducibility). A companion TUI,
+**lazypax**, is in progress as an interactive front-end to the same core.
+
+**CETUCA** — Civil engineers doing road-safety pre-analysis were losing hours
+manually extracting data from footage, then feeding it into microsimulation models
+that were nearly impossible to calibrate for local driver behavior — bad calibration
+meant bad decisions downstream. I proposed and built a pipeline that analyzes
+real-world vehicle trajectories directly instead of simulated ones, removing the
+calibration error and automating most of the manual pre-processing. Split into three
+components — **TraTrac** (trajectory tracking), **FloCo** (flow counting), and
+**URBAn** (the GUI tying them together). Done with UCA (Argentina), presented at a
+Civil Engineering congress.
+
+**uroboros** — A full-stack storefront for a stationery business — backend,
+frontend, and shared types built to actually ship and be used, not just a portfolio
+piece.
+
+## Tools I reach for
+
+![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)
+![Nix](https://img.shields.io/badge/-Nix-5277C3?logo=nixos&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+<!-- add/remove badges to match your real stack -->
+
+## Elsewhere
+
+[LinkedIn](https://www.linkedin.com/in/santiago-garrote-benes/) · [Email](mailto:santiagogarrote2005@gmail.com)
