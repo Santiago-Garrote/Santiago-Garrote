@@ -55,7 +55,6 @@ is someone else's domain, not mine.
 [![Nix](https://img.shields.io/badge/-Nix-5277C3?logo=nixos&logoColor=white)](https://nixos.org/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![QML](https://img.shields.io/badge/-QML-41CD52?logo=qt&logoColor=white)](https://doc.qt.io/qt-6/qmlapplications.html)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
 ## Elsewhere
