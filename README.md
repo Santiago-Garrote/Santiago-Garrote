@@ -1,4 +1,10 @@
+<div align="center">
+
 # Hey, I'm Santiago
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=560&lines=I+solve+problems+%E2%80%94+code+is+just+the+tool;Rust+%2B+Nix%2C+mostly;Reproducible+over+quick" alt="Typing SVG" />
+
+</div>
 
 I solve problems — the tool I reach for just happens to be code, most of the time.
 I care more about the "why" behind a system than the stack it's built on: right now
@@ -51,12 +57,27 @@ is someone else's domain, not mine.
 
 ## Tools I reach for
 
+<div align="center">
+
 [![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white)](https://www.rust-lang.org/)
 [![Nix](https://img.shields.io/badge/-Nix-5277C3?logo=nixos&logoColor=white)](https://nixos.org/)
 [![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/)
 
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Santiago-Garrote&show_icons=true&theme=default&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Santiago-Garrote&layout=compact&theme=default&hide_border=true" height="165" alt="Top languages" />
+
+</div>
+
 ## Elsewhere
 
+<div align="center">
+
 [LinkedIn](https://www.linkedin.com/in/santiago-garrote-benes/) · [Email](mailto:santiagogarrote2005@gmail.com)
+
+</div>
