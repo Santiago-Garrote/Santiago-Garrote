@@ -7,28 +7,35 @@ is someone else's domain, not mine.
 
 ## What I've built
 
-**[pax](https://github.com/Santiago-Garrote/pax)** — Academic paper management is a
-mess: search, metadata, PDFs, references, reproducibility, all disconnected. I split
-the problem cleanly instead of writing one more script — PAX handles papers, Nix
-handles artifacts (fetching, hashing, caching, reproducibility). A companion TUI,
-**[lazy-pax](https://github.com/Santiago-Garrote/lazy-pax)**, is in progress as an
-interactive front-end to the same core.
+### [pax](https://github.com/Santiago-Garrote/pax)
 
-**CETUCA** — Civil engineers doing road-safety pre-analysis were losing hours
-manually extracting data from footage, then feeding it into microsimulation models
-that were nearly impossible to calibrate for local driver behavior — bad calibration
-meant bad decisions downstream. I proposed and built a pipeline that analyzes
-real-world vehicle trajectories directly instead of simulated ones, removing the
-calibration error and automating most of the manual pre-processing. Split into three
-components — **[TraTrac](https://github.com/CentroEstudiosTransporteUCA/TraTrac)**
-(trajectory tracking), **[FloCo](https://github.com/CentroEstudiosTransporteUCA/FloCo)**
-(flow counting), and **[URBAn](https://github.com/CentroEstudiosTransporteUCA/URBAn)**
-(the GUI tying them together). Done with UCA (Argentina), presented at a Civil
-Engineering congress.
+- Academic paper management is a mess: search, metadata, PDFs, references,
+  reproducibility, all disconnected
+- Split the problem cleanly instead of writing one more script — PAX handles
+  papers, Nix handles artifacts (fetching, hashing, caching, reproducibility)
+- Companion TUI, **[lazy-pax](https://github.com/Santiago-Garrote/lazy-pax)**, in
+  progress as an interactive front-end to the same core
 
-**[uroboros](https://github.com/UroborosDesigns/uroboros-frontend)** — A full-stack
-storefront for a stationery business — backend, frontend, and shared types built to
-actually ship and be used, not just a portfolio piece.
+### CETUCA
+
+- Civil engineers doing road-safety pre-analysis were losing hours manually
+  extracting data from footage, then feeding it into microsimulation models
+  that were nearly impossible to calibrate for local driver behavior — bad
+  calibration meant bad decisions downstream
+- Proposed and built a pipeline that analyzes real-world vehicle trajectories
+  directly instead of simulated ones, removing the calibration error and
+  automating most of the manual pre-processing
+- Split into three components:
+  - **[TraTrac](https://github.com/CentroEstudiosTransporteUCA/TraTrac)** — trajectory tracking
+  - **[FloCo](https://github.com/CentroEstudiosTransporteUCA/FloCo)** — flow counting
+  - **[URBAn](https://github.com/CentroEstudiosTransporteUCA/URBAn)** — the GUI tying them together
+- Done with UCA (Argentina), presented at a Civil Engineering congress
+
+### [uroboros](https://github.com/UroborosDesigns/uroboros-frontend)
+
+- Full-stack storefront for a stationery business
+- Backend, frontend, and shared types built to actually ship and be used, not
+  just a portfolio piece
 
 ## Tools I reach for
 
