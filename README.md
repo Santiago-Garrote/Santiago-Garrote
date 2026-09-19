@@ -7,14 +7,18 @@ is someone else's domain, not mine.
 
 ## What I've built
 
-### [pax](https://github.com/Santiago-Garrote/pax)
+### [pax-core](https://github.com/Santiago-Garrote/pax)
 
 - Academic paper management is a mess: search, metadata, PDFs, references,
   reproducibility, all disconnected
 - Split the problem cleanly instead of writing one more script — PAX handles
   papers, Nix handles artifacts (fetching, hashing, caching, reproducibility)
-- Companion TUI, **[lazy-pax](https://github.com/Santiago-Garrote/lazy-pax)**, in
-  progress as an interactive front-end to the same core
+- A library first — the `pax` CLI is just one thin client on top of it
+
+### [lazy-pax](https://github.com/Santiago-Garrote/lazy-pax)
+
+- Interactive TUI front-end to pax-core, in progress — same core, a different
+  way to drive it
 
 ### CETUCA
 
