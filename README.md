@@ -7,18 +7,17 @@ is someone else's domain, not mine.
 
 ## What I've built
 
-### [pax-core](https://github.com/Santiago-Garrote/pax)
+### Pax
 
 - Academic paper management is a mess: search, metadata, PDFs, references,
   reproducibility, all disconnected
 - Split the problem cleanly instead of writing one more script — PAX handles
   papers, Nix handles artifacts (fetching, hashing, caching, reproducibility)
-- A library first — the `pax` CLI is just one thin client on top of it
-
-### [lazy-pax](https://github.com/Santiago-Garrote/lazy-pax)
-
-- Interactive TUI front-end to pax-core, in progress — same core, a different
-  way to drive it
+- Split into two components:
+  - **[pax-core](https://github.com/Santiago-Garrote/pax)** — the library; the
+    `pax` CLI is just one thin client on top of it
+  - **[lazy-pax](https://github.com/Santiago-Garrote/lazy-pax)** — interactive
+    TUI front-end to pax-core, in progress
 
 ### CETUCA
 
@@ -35,11 +34,12 @@ is someone else's domain, not mine.
   - **[URBAn](https://github.com/CentroEstudiosTransporteUCA/URBAn)** — the GUI tying them together
 - Done with UCA (Argentina), presented at a Civil Engineering congress
 
-### [uroboros](https://github.com/UroborosDesigns/uroboros-frontend)
+### uroboros
 
 - Full-stack storefront for a stationery business
 - Backend, frontend, and shared types built to actually ship and be used, not
   just a portfolio piece
+- **[uroboros-frontend](https://github.com/UroborosDesigns/uroboros-frontend)**
 
 ### [.dotfiles](https://github.com/Santiago-Garrote/.dotfiles)
 
